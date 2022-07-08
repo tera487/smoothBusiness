@@ -1,0 +1,2 @@
+# smoothBusiness
+businessをスムーズに行うためのツール
